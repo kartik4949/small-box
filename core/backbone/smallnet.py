@@ -12,10 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ==============================================================================
-
-import tensorflow as tf
-
 """ Small Box Backbone network. """
+import tensorflow as tf
 
 class SmallBox(tf.keras.Model):
     def __init__(self, config):
