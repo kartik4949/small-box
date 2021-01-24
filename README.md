@@ -1,4 +1,4 @@
-# small-box
+# Small-Box
 <p align="center">
   <img width="460" height="300" src="https://cdn.pixabay.com/photo/2020/09/02/05/10/antique-5537337__340.jpg">
 </p>
