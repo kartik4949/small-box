@@ -15,5 +15,6 @@
 """ Class backbone factory. """
 def builder(config):
     backbone = config.backbone
-    #TODO write me
-    return backbone
+    # TODO (kartik4949): remove hardcorded import.
+    from smallnet import SmallBox
+    return SmallBox
